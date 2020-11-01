@@ -1,3 +1,3 @@
 # Stack
 
-1.
+1.Stack Global Diclaration
