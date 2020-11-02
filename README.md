@@ -2,4 +2,4 @@
 
 1.Stack Global Diclaration(array).
 2.Stack Linked List Implimentataion.
-3.
+3.Stack Structure (ARRAY) Implimentaion.
