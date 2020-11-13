@@ -6,4 +6,4 @@
 4.Circular Stack using array.
 5.Evaluation of postfix expression.
 6.Balancing Of Paranthesis.
-7.WAP to 
+7.WAP to implement a queue 
